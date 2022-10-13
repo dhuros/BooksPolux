@@ -1,0 +1,13 @@
+/* Declarar las constantes de colores y fuentes */
+:root{
+  /* fuentes */
+  --titulos:'Dosis', sans-serif;
+  --parrafos: 'Inter', sans-serif, 'Source Sans Pro', sans-serif;
+  /* colores */
+  --encabezado: rgb(71, 70, 70); 
+  --piepagina: rgb(92, 10, 10); 
+  --enlace: rgb(228, 135, 135); 
+  --enlacesobre: rgb(241, 19, 19); 
+  --fondo: rgb(5, 5, 5); 
+  
+  }
